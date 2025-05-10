@@ -4,7 +4,7 @@ local Window = Rayfield:CreateWindow({
    Name = "Paplo Hub (BETA)",
    Icon =117829097495168, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Im clownquesting it",
-   LoadingSubtitle = "by the infomaous paplo (i wont tell)",
+   LoadingSubtitle = "by the infomaous paplo (i wont tell reel)",
    Theme = "DarkBlue", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
    DisableRayfieldPrompts = false,
@@ -13,7 +13,7 @@ local Window = Rayfield:CreateWindow({
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "Paplo WTP Hub"
+      FileName = "Paplo WTS Hub"
    },
 
    Discord = {
